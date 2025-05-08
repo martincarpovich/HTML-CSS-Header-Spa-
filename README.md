@@ -2,7 +2,7 @@
 
 Proyecto hecho con **Vite + Sass** que reproduce el diseño de un header moderno de spa.
 
-![Demo del sitio](./screenshot.png) <!-- podés capturar y guardar una imagen de tu proyecto como screenshot.png -->
+![Demo del sitio](./img-github.png) <!-- podés capturar y guardar una imagen de tu proyecto como screenshot.png -->
 
 ## 🛠 Tecnologías usadas
 

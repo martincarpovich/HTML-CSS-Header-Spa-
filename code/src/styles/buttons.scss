@@ -1,8 +1,0 @@
-@use "_variables-tema" as vt;
-
-@mixin button($bg: vt.$primary-color) {
-  background-color: vt.$primary-color;
-  padding: 10px 20px;
-  color: white;
-  border-radius: 30px;
-}

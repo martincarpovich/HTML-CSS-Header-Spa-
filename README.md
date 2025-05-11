@@ -9,7 +9,8 @@ Proyecto hecho con **Vite + Sass** que reproduce el diseño de un header moderno
 - Vite
 - Sass
 - HTML5
-- CSS3
+- CSS
+- JS
 
 ## 🚀 Cómo usarlo
 
